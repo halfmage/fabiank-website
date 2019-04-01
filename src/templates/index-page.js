@@ -8,6 +8,7 @@ const IndexPage = ({}) => {
       alignItems: 'center',
       justifyContent: 'center',
       flexDirection: 'column',
+      fontFamily: 'sans-serif',
       height: '100vh' }}>
       <img src={logo} alt="logo" style={{
         width: '4rem',
@@ -17,7 +18,6 @@ const IndexPage = ({}) => {
         textAlign: 'center',
         fontSize: '1.25rem',
         fontWeight: '700',
-        fontFamily: 'sans-serif',
       }}>Fabian Klein</h2>
       <h4 style={{
         fontSize: '.825rem',
