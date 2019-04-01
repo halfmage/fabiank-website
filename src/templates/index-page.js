@@ -21,9 +21,12 @@ const IndexPage = ({}) => {
       }}>Fabian Klein</h2>
       <h4 style={{
         fontSize: '.825rem',
+        marginBottom: '1rem'
       }}>
-        Diese Webseite befindet sich aktuell im Aufbau!
+        Filmmaker. Photographer
       </h4>
+      <div style={{fontSize:'.75rem'}}>+49 (0) 1762 1490 478</div>
+      <div style={{fontSize:'.75rem'}}>mail@fabiank.de</div>
       <div style={{
         display: 'flex',
         marginTop: '1rem'
