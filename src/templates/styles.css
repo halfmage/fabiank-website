@@ -1,0 +1,11 @@
+.bg {
+    background: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.bg a {
+    color: #fff;
+    text-decoration: underline;
+}
